@@ -1,2 +1,2 @@
-# This is a program to sat Hi!
+# This is a program to say Hi!
 print('Hi World!')
